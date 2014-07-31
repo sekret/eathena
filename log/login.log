@@ -1,0 +1,36 @@
+2011-09-05 17:13:57	0.0.0.0	login server	100	login server started
+2011-09-05 17:13:58	192.168.1.64	s1	100	charserver - eAthena@192.168.1.64:6121
+2011-09-05 17:14:29	127.0.0.1	Test	100	login ok
+2011-09-06 02:36:45	0.0.0.0	login server	100	login server started
+2011-09-06 02:36:46	192.168.1.64	s1	100	charserver - eAthena@192.168.1.64:6121
+2011-09-06 02:37:01	127.0.0.1	Test	100	login ok
+2011-09-06 02:55:26	127.0.0.1	Test2	100	login ok
+2011-09-06 13:02:10	0.0.0.0	login server	100	login server started
+2011-09-06 13:02:11	192.168.1.64	s1	100	charserver - eAthena@192.168.1.64:6121
+2011-09-06 13:02:39	127.0.0.1	Test	100	login ok
+2011-09-06 13:02:55	127.0.0.1	Test2	100	login ok
+2011-09-06 13:03:16	127.0.0.1	Test2	100	login ok
+2011-09-06 13:03:29	127.0.0.1	Test	100	login ok
+2011-09-06 14:58:26	0.0.0.0	login server	100	login server started
+2011-09-06 14:58:27	192.168.1.64	s1	100	charserver - eAthena@192.168.1.64:6121
+2011-09-06 14:58:43	127.0.0.1	Test	100	login ok
+2011-09-06 14:59:05	127.0.0.1	Test2	100	login ok
+2011-09-06 14:59:39	127.0.0.1	Test	100	login ok
+2011-09-09 14:51:43	0.0.0.0	login server	100	login server started
+2011-09-09 14:51:45	192.168.1.64	s1	100	charserver - eAthena@192.168.1.64:6121
+2011-09-09 14:52:06	127.0.0.1	Test2	100	login ok
+2011-10-07 12:51:24	0.0.0.0	login server	100	login server started
+2011-10-07 12:51:25	192.168.1.64	s1	100	charserver - eAthena@192.168.1.64:6121
+2011-10-07 12:51:54	127.0.0.1	Test	100	login ok
+2011-10-07 12:52:30	127.0.0.1	Test2	100	login ok
+2011-10-09 14:08:58	0.0.0.0	login server	100	login server started
+2011-10-09 14:08:59	192.168.1.64	s1	100	charserver - eAthena@192.168.1.64:6121
+2011-10-09 14:09:26	127.0.0.1	Test	100	login ok
+2011-10-09 14:11:09	0.0.0.0	login server	100	login server started
+2011-10-09 14:11:10	192.168.1.64	s1	100	charserver - eAthena@192.168.1.64:6121
+2011-10-09 14:11:27	127.0.0.1	Test	100	login ok
+2011-10-09 14:11:46	127.0.0.1	Test2	100	login ok
+2011-10-09 14:12:19	0.0.0.0	login server	100	login server shutdown
+2011-10-10 05:03:21	0.0.0.0	login server	100	login server started
+2011-10-10 05:03:22	192.168.1.64	s1	100	charserver - eAthena@192.168.1.64:6121
+2011-10-10 05:03:52	127.0.0.1	Test	100	login ok
